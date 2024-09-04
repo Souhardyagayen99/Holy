@@ -1,0 +1,8 @@
+Nested Lists
+Send Feedback
+Write code to centre an h1 element with content 
+“My name is : YourName”. Make the text underlined and in italics. 
+Then draw a line beneath it. Now create nested lists with the 
+specified bullet styling as shown below. Add your favorite books, 
+writers, subjects, and fields you wish to explore!
+https://ninjasfiles.s3.amazonaws.com/asset_0000000000000617_1646726209_addNestedLists.png

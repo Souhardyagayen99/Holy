@@ -1,0 +1,9 @@
+Add Lists to Blog Page
+Send Feedback
+As of now our basic template containing all the content is ready. But it does not look right, does it? So, what can we do?
+The headings after the 'Prerequisites' are all inside it. So it would be better to provide it as a list on the page.
+I think now you know what to do. So, let's get started and provide the headings after the 'Prerequisites' as an unordered list on the page.
+
+
+Expected blog page is -
+https://ninjasfiles.s3.amazonaws.com/0000000000001391.png

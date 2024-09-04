@@ -1,0 +1,12 @@
+Create Blog Page
+Send Feedback
+Now, you know what is heading tag and paragraph tag and how and where to use them.
+So, let's make use of them to add content to our blog page.
+All the content to be added is provided inside the HTML itself.
+
+
+NOTE: For the headings in the document refer to the image below.
+
+Expected Blog Page is -
+
+https://ninjasfiles.s3.amazonaws.com/0000000000001392.png

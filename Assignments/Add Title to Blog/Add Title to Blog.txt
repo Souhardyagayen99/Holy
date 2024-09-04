@@ -1,0 +1,10 @@
+Add Title to Blog
+Send Feedback
+Let's start making your own first blog.
+Add the title - "Best Coding Practices" to your web page.
+The title can be seen in the browser's tab.
+
+
+The image below shows how the title will be displayed -
+
+https://ninjasfiles.s3.amazonaws.com/0000000000001390.PNG

@@ -1,0 +1,21 @@
+Add Image To Blog Page
+Send Feedback
+Your blog now looks better and seems to be readable.
+After knowing how to add an image, you will now do the same in your blog.
+So let's add all the images required to your blog. Images to be added are provided at the end of this problem. Remember to add appropriate alternate text as well.
+Some text also need to be added to the blog, so add it as well.
+
+
+For where to insert them, look at the expected look of the page and add them to their appropriate positions, as shown below-
+https://ninjasfiles.s3.amazonaws.com/0000000000001396.png
+
+The required images are -
+
+
+no image
+
+
+no image
+
+
+no image
